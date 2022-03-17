@@ -29,3 +29,12 @@ function getRectangleArea(width, height) {
 ```
 <h2>Work experience</h2>
 Studying html, css, js in free time, performing laboratory work while studying at the university, internship in AIS company on front-end.
+
+<h2>Education</h2>
+
+- Minsk Institute of Management 2014 
+- Belarusian University of Informatics and Radioelectronics 2019
+
+<h2>Level of English:</h2>
+
+B1
